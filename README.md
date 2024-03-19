@@ -40,5 +40,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-Special thanks to [Dataset Name or Source] for providing the dataset used for training the deep learning models.
-
