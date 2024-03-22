@@ -10,7 +10,7 @@ This project aims to develop a deep learning-based system for automated detectio
 
 
 ## Dataset
-The dataset used in this project consists of high-resolution images of Cassava leaves affected by different diseases, along with healthy leaves for comparison. The dataset is obtained from Kaggle : Link for the Dataset ## https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data.
+The dataset used in this project consists of high-resolution images of Cassava leaves affected by different diseases, along with healthy leaves for comparison. The dataset is obtained from Kaggle : Link for the Dataset  https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data.
 
 
 
