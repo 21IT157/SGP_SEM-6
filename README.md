@@ -22,18 +22,6 @@ To address these challenges, this project focuses on leveraging deep learning te
 - **Scalability**: Deep learning models can be scaled to handle large volumes of data, making them suitable for analyzing extensive datasets of leaf images.
 - **Consistency**: Unlike human inspectors, deep learning models provide consistent results, reducing variability and improving reliability in disease diagnosis.
 
-## Getting Started
-
-To use the mango leaf disease detection system:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the application and follow the instructions for uploading leaf images and analyzing the results.
-
-## Contributing
-
-Contributions to the project are welcome! Whether it's fixing bugs, adding new features, or improving documentation, your help is appreciated. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
