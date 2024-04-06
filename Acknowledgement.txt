@@ -1,0 +1,14 @@
+Acknowledgments
+
+We would like to express our gratitude to MAKERERE UNIVERSITY AI LAB for curating and providing the "Cassava Leaf Disease Classification" dataset on Kaggle. 
+This dataset has been invaluable to our research and project, enabling us to develop and test our machine learning models for cassava disease detection. 
+We acknowledge the efforts of MAKERERE UNIVERSITY AI LAB in collecting and annotating the dataset, as well as their contributions to advancing research in agricultural technology and artificial intelligence. 
+We also extend our appreciation to the Kaggle community for their support and contributions to the dataset. This work would not have been possible without their efforts.
+
+Citation:@misc{cassava-leaf-disease-classification,
+    author = {ErnestMwebaze, Jesse Mostipak, Joyce, Julia Elliott, Sohier Dane},
+    title = {Cassava Leaf Disease Classification},
+    publisher = {Kaggle},
+    year = {2020},
+    url = {https://kaggle.com/competitions/cassava-leaf-disease-classification}
+}
