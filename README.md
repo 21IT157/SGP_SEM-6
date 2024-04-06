@@ -13,7 +13,7 @@ This project aims to leverage deep learning techniques, specifically the Vision 
 ## Installation
 To run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/Sneh_157/SGP_SEM_6.git`
-2. Navigate to the project directory: `cd cassava-disease-detection`
+2. Navigate to the project directory: `cd SGP_SEM_6`
 3. Install dependencies: `pip install -r requirements.txt`
 
 ## Contributing
