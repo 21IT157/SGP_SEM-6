@@ -28,4 +28,4 @@ This project is licensed under the [MIT License](LICENSE).
 - We also acknowledge the developers of the open-source libraries used in this project, including TensorFlow and scikit-learn.
 
 ## Contact Information
-For any questions, feedback, or inquiries about the project, please contact [Your Name](mailto:your-email@example.com).
+For any questions, feedback, or inquiries about the project, please contact [Sneh Soni](21IT157@charusat.edu.in).
